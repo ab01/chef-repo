@@ -1,0 +1,5 @@
+default['slack-handler']['channel'] = '#devops'
+default['slack-handler']['token'] = 'https://hooks.slack.com/services/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'
+default['slack-handler']['team'] = 'devops-teamx.slack.com'
+default['slack-handler']['username'] = 'ankitbhalla01'
+default['slack-handler']['icon_emoj'] = ':chef:'

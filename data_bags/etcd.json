@@ -1,0 +1,5 @@
+{
+ "id": "etcd",
+ "groups": [ "etcd"],
+ "shell": "\/bin\/bash"
+}
