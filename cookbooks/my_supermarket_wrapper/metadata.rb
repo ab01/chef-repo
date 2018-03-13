@@ -20,3 +20,4 @@ chef_version '>= 12.14' if respond_to?(:chef_version)
 # source_url 'https://github.com/<insert_org_here>/my_supermarket_wrapper'
 depends 'supermarket-omnibus-cookbook'
 depends 'slack_handler'
+depends 'run-notifier', '~> 0.4.1'
